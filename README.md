@@ -39,3 +39,7 @@ all NBA teams and saves the data into CSV files for further analysis.
   <li>The program will fetch data from the ESPN website for all NBA teams and store the extracted information in CSV files.</li>
   <li>The generated CSV files will be saved in the specified directory.</li>
 </ul>
+
+<h2>Power BI Visualization</h2>
+
+![Power BI Visualization](https://github.com/Cuxiel/NBA-Webscrape-2023-2024/blob/main/NBA%20Analysis%202023_2024/thumbnail.png)
